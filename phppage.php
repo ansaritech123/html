@@ -17,9 +17,10 @@
 		padding: 2%;
 	}
 	img{
-		height: 25%;
-		width: 98%;
+		margin-left: auto;
+		margin-right: auto;
 		padding: 1%;
+		padding-left: 5%;
 	}
 
 </style>
