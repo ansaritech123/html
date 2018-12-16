@@ -34,6 +34,17 @@
 		<a href="phppage.php" <h1>Php Page</h1></a>
 		
 	</div>
+<?php
+echo "My first PHP Code!<br>";
+echo "counting 1 to 50<br><br>";
+
+for ($x = 0; $x <= 50; $x++) {
+    echo " $x <br>";
+    for ($i=0; $i <$x ; $i++) { 
+   		echo "&emsp;";
+    }
+} 
+?>
 
 </body>
 
